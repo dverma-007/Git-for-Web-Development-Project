@@ -1,0 +1,89 @@
+<link rel="stylesheet" href="mystyle.css">
+
+* {
+  background-color:blue;
+  display:inline-block;
+}
+
+body{
+  border:15px solid blue;
+}
+h1{
+  color:grey;
+  text-align:center;
+}
+
+.title h2{
+  color:Skyblue;
+}
+
+.title p{
+  color:Skyblue;
+}
+
+header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:0;
+  margin-bottom:0;
+  width: 80%;
+}
+
+header p{
+  background-color:#8FEBA9;
+  padding: 40px;
+}
+
+header p:hover{
+  background-color:blue;
+  color:yellow;
+}
+
+.title {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 73%;
+  background-color:#38677D;
+  padding: 40px;
+}
+
+.title:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.another-section{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 5px;
+}
+
+.another-section:hover {
+  background-color: orange;
+  color:white
+}
+
+.another-section h2{
+  color:grey;
+}
+
+.image-section{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 80px;  
+}
+.image{
+  display:inline-block;
+  padding:10px;
+  margin-left:auto;
+  margin-right:auto; 
+}
+.image:hover { 
+  outline: 8px dashed red; 
+} 

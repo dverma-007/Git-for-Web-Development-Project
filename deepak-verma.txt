@@ -1,4 +1,4 @@
-https://codepen.io/deepak-007/pen/oNwbpMM?editors=1100
+https://codepen.io/deepak-007/pen/oNwbpMM
 
 
     1. What is Semantic HTML? Semantic HTML are commands that provide meaning in the words. 
